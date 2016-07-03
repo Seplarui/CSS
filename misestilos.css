@@ -7,3 +7,13 @@ p {
 	color:green;
 	font-size: 18px;
 }
+
+h1 {
+    text-align: center;
+    color:red;
+}
+
+body {
+    background-color: darkseagreen;
+    
+}
